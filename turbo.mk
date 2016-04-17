@@ -21,6 +21,10 @@
 # lines, full and maguro, hence its name.
 #
 
+# ViPER4Android
+PRODUCT_PACKAGES += \
+    ViPER4Android
+
 # Inherit from jflte device
 $(call inherit-product, device/samsung/jflte/full_jflte.mk)
 
