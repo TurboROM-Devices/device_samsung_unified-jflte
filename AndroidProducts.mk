@@ -10,5 +10,5 @@
   #
 
   PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/broken.mk \
+    $(LOCAL_DIR)/turbo.mk \
     $(LOCAL_DIR)/full_jflte.mk
